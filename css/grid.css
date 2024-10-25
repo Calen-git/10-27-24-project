@@ -1,14 +1,25 @@
 .main-grid {
+  max-width: 90vw;
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #333;
   padding: 10px;
+  gap: 20px;
+  border-radius: 10px;
 }
 
 .grid-item {
+  display: flex;
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   font-size: 30px;
   text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border-radius: 25px;
 }
