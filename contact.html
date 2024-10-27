@@ -12,5 +12,20 @@
         <li><a href="contact.html">Contact</a></li>
       </ul>
     </nav>
+    <link rel="stylesheet" href="css/head.css" />
+    <h1 class="main-header">Welcome to my badass website!</h1>
   </head>
+  <link rel="stylesheet" href="css/contactform.css" />
+  <form id="contactform" action="https://formspree.io/f/xqakebvj" method="POST">
+    <label>
+      Your email:
+      <input type="email" name="email" />
+    </label>
+    <label>
+      Your message:
+      <textarea name="message"></textarea>
+    </label>
+    <!-- your other form fields go here -->
+    <button type="submit">Send</button>
+  </form>
 </html>
