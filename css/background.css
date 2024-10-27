@@ -1,0 +1,13 @@
+/* background.css */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.background-image {
+  background-image: url(images/10.png);
+  background-size: cover;
+  background-position: center;
+}
