@@ -12,7 +12,7 @@
 .grid-item {
   display: flex;
   background-color: rgba(106, 106, 106, 0.8);
-  border: 1px solid rgba(0, 255, 30, 0.8);
+  border: 1px solid rgba(0, 255, 30, 0.517);
 }
 
 img {

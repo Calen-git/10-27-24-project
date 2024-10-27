@@ -14,3 +14,9 @@
   justify-content: space-around;
   gap: 1.5rem;
 }
+
+.header-nav a {
+  text-decoration: none;
+  color: aliceblue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
