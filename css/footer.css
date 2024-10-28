@@ -1,0 +1,14 @@
+#main-footer {
+  position: relative;
+  bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+#main-footer p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#main-footer a {
+  font-family: arial;
+}

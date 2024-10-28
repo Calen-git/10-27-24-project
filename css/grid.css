@@ -68,8 +68,9 @@ img {
   }
 
   .grid-item p {
-    text-align: left;
+    object-fit: contain;
+    text-align: center;
     position: relative;
-    left: -20px;
+    left: -40px;
   }
 }
