@@ -1,0 +1,13 @@
+#hero.bg-primary {
+  background-color: orange;
+}
+
+#hero h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+}
+
+#hero p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+}

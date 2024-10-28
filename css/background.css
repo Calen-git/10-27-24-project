@@ -6,8 +6,10 @@ body {
   background: linear-gradient(to right, #ff7e5f, #feb47b);
 }
 
-.background-image {
-  background-image: url(images/10.png);
-  background-size: cover;
-  background-position: center;
+#hero-bg {
+  position: fixed;
+  width: 100vw;
+  height: auto;
+  z-index: 0;
+  opacity: 10%;
 }
