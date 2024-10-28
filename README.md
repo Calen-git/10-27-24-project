@@ -29,7 +29,9 @@ This Project uses Bootstrap CSS for a responsive hero section.
 To Contribute:
 
 -Clone or fork the repository from github to your local machine.
+
 -Make your changes and test them out.
+
 -Submit a pull request.
 
 Thanks for contributing!
